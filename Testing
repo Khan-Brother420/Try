@@ -52,8 +52,8 @@ def t():
 def t1():
     time.sleep(0.01)
 
-#### print std #KHAN###
-def KHAN(z):
+#### print std #love###
+def love(z):
 	for e in z + "\n":
 		sys.stdout.write(e)
 		sys.stdout.flush()
